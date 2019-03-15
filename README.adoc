@@ -1,0 +1,5 @@
+== Q-Learning İle Labirentte En Kısa Yol Bulma Projesi
+
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Yazılım Laboratuvar dersi projesidir.
+
+C# kullanarak yazılmıştır.
